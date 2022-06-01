@@ -3,7 +3,7 @@
 A word similarity dataset with high proportion of multi-sense words that is designed to facilitate more reliable evaluations of sense embeddings.
 
 # Download
-Please go to [resources page](http://nlg.csie.ntu.edu.tw/nlpresource/MSD-1030/) to access resources.
+Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/MSD-1030/MSD-1030.zip) to download data.
 
 # How to Cite this resource
 Please cite the following paper when referring to MSD-1030 in academic publications and papers.
